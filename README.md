@@ -26,13 +26,6 @@
 - **Database:** MySQL, SQLite
 - **Concepts:** Data Cleaning, Analysis, Reporting, Machine Learning
 
-- ### 🚀 Featured Projects
-- 📊 [Sales Dashboard (Power BI)](https://github.com/Harshada3008/Sales-Dashboard)
-- 🤖 [Customer Churn Prediction (Python)](https://github.com/Harshada3008/Customer-Churn)
-- 📈 [HR Analytics Project](https://github.com/Harshada3008/HR-Analytics)
-
-
----
 
 ### 📫 Reach Me Via
 - 📧 **Email:** [Harshada Rane](harshadarane.3083@gmail.com)
