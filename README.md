@@ -5,38 +5,7 @@
 ✨ Every dataset has a story — I love discovering it! ✨
 </p>
 
----
-
-### 👩‍💻 Data Analyst | Python | SQL | Power BI | Excel | Machine Learning Enthusiast
-
----
-
-### 💡 About Me
-- 🎯 Passionate about **Data Analytics, AI & Business Insights**
-- 💻 Skilled in **Python, SQL, Power BI, Excel**
-- 📊 Experienced in **Data Visualization, Dashboard Design**
-- 🤖 Exploring **Machine Learning, AI tools & Automation**
-- 🌱 Always learning and building **real-world analytics projects**
-
----
-
-### 🛠️ Tech Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- **Visualization:** Power BI, Excel
-- **Database:** MySQL, SQLite
-- **Concepts:** Data Cleaning, Analysis, Reporting, Machine Learning
-
----
-
-### 📫 Reach Me Via
-- 📧 **Email:** harshadarane.3083@gmail.com
-- 💼 **LinkedIn:** <h1 align="center">Hi, I'm Harshada Rane 👋</h1>
-
-<p align="center">
-✨ Every dataset has a story — I love discovering it! ✨
-</p>
-
----
+--
 
 ### 👩‍💻 Data Analyst | Python | SQL | Power BI | Excel | Machine Learning Enthusiast
 
@@ -72,24 +41,4 @@
 - 🌐 **GitHub Projects:** [View All Projects](https://github.com/Harshada3008?tab=repositories)
 
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-<p align="center">💬 “Data turns into decisions when analyzed with passion.”</p>
-
-- 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-<p align="center">💬 “Data turns into decisions when analyzed with passion.”</p>
