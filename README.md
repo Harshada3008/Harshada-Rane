@@ -29,8 +29,8 @@
 
 ### 📫 Reach Me Via
 - 📧 **Email:** [Harshada Rane](harshadarane.3083@gmail.com)
-- 💼 **LinkedIn:** [Harshada](www.linkedin.com/in/harshada-rane-0211ab330)
-- 📄 **Resume:** [Harshada](https://drive.google.com/file/d/1ORQvmuS-VQknsCywtmcBdKIb5u0d44eB/view?usp=drivesdk)
+- 💼 **LinkedIn:** [Linkedin](www.linkedin.com/in/harshada-rane-0211ab330)
+- 📄 **Resume:** [Resume](https://drive.google.com/file/d/1ORQvmuS-VQknsCywtmcBdKIb5u0d44eB/view?usp=drivesdk)
 - 🌐 **GitHub Projects:** [View All Projects](https://github.com/Harshada3008?tab=repositories)
 
 
